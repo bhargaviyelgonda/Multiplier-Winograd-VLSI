@@ -22,5 +22,3 @@ This project implements **Booth**, **Baugh-Wooley**, and **Vedic** multipliers i
 
 ✅ **Vedic-Winograd Multiplier** achieved the best trade-off between speed, accuracy, and power.
 
-## Author
-Bhargavi Y – B.Tech ECE Final Year Project
